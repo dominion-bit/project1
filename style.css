@@ -1,0 +1,128 @@
+header .head{
+    background-color: rgb(88, 101, 242);
+    height: 300px;
+}
+
+header .logo{
+    position: relative;
+    top: 20px;
+    left: 40px;
+    height: 35px;
+}
+header .p1{
+    width: 400px;
+    color: white;
+    padding-left: 60px;
+}
+
+header .p2{
+    width: 400px;
+    color: white;
+    padding-left: 60px;
+    font-size: smaller;
+}
+
+header .navbar{
+    display: inline;
+    margin-left: 900px;
+    
+}
+
+header .a1{
+    padding: 10px 5px;
+    text-decoration: none;
+    color: white;
+}
+
+header .a1:hover{
+    color: black;
+}
+
+header .image1{
+    width: 400px;
+    height: 350px;
+    position: relative;
+    left: 1007px;
+    bottom: 140px;
+}
+
+header .hmm{
+    color: black;
+    margin: 15px 5px;
+}
+
+header .a2{
+    margin-right: 10px;
+}
+
+header .a2:hover{
+    color: red;
+    
+}
+
+main .a3{
+    font-size: small;
+    position: relative;
+    top: 5px;
+    text-decoration: none;
+    color: black;
+}
+main .a3:hover{
+    color: rgb(235, 80, 80);
+}
+
+
+main .a4{
+    font-size: small;
+    position: relative;
+    top: 10px;
+    text-decoration: none;
+    color: black;
+
+}
+main .a4:hover{
+    color: rgb(235, 80, 80);
+}
+
+
+
+main .div2{
+    height: 125px;
+    width: 200px;
+    margin: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 10px 20px;
+    display: inline-block;
+    contain: content;
+}
+main .div2:hover{
+    transform: scale(1.1);
+}
+main .p3{
+    margin-top: 0px;
+}
+
+main .p4{
+    font-size: 11px;
+    width: 250px;
+    margin-top: 20px;
+}
+
+main .p5{
+    font-size: 11px;
+    width: 250px;
+    margin-top: 37px;
+}
+
+main .image2{
+    height: 30px;
+    width: 30px;
+}
+
+body{
+    cursor: pointer;
+}
+    
+header{
+    text-align: ;
+}
