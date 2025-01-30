@@ -6,19 +6,19 @@ header .head{
 header .logo{
     position: relative;
     top: 20px;
-    left: 40px;
+    left: 20px;
     height: 35px;
 }
 header .p1{
     width: 400px;
     color: white;
-    padding-left: 60px;
+    margin-left: 20px;
 }
 
 header .p2{
     width: 400px;
     color: white;
-    padding-left: 60px;
+    margin-left: 20px;
     font-size: smaller;
 }
 
@@ -48,7 +48,9 @@ header .image1{
 
 header .hmm{
     color: black;
-    margin: 15px 5px;
+    margin: 5px 20px;
+    font-size: 14px;
+    font-weight: bolder;
 }
 
 header .a2{
@@ -89,14 +91,14 @@ main .a4:hover{
 main .div2{
     height: 125px;
     width: 200px;
-    margin: 10px;
+    margin: 20px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     padding: 10px 20px;
     display: inline-block;
     contain: content;
 }
 main .div2:hover{
-    transform: scale(1.1);
+    transform: scale(1.2);
 }
 main .p3{
     margin-top: 0px;
@@ -121,8 +123,12 @@ main .image2{
 
 body{
     cursor: pointer;
+    margin: 0px
 }
     
 header{
     text-align: ;
+}
+main .h2{
+    margin-left: 20px;
 }
