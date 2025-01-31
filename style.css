@@ -39,10 +39,10 @@ header .a1:hover{
 }
 
 header .image1{
-    width: 400px;
-    height: 350px;
+    width: 450px;
+    height: 380px;
     position: relative;
-    left: 1007px;
+    left: 973px;
     bottom: 140px;
 }
 
@@ -126,9 +126,142 @@ body{
     margin: 0px
 }
     
-header{
-    text-align: ;
-}
 main .h2{
     margin-left: 20px;
 }
+
+main .image3{
+    margin-left: 60px;
+    width: 380px;
+    height: 300px;
+}
+main .div3{
+    height: 280px;
+    width: 200px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 10px 20px;
+    display: inline-block;
+    position: relative;
+    top: 41px;
+    right: 3px;
+    
+}
+main .p6{
+    font-size: 12px;
+    color: rgb(88, 101, 242);
+    font-weight: bolder;
+}
+main .p7{
+    font-size: 13px;
+}
+
+main .h3{
+    font-size: large;
+
+}
+main .image4{
+    position: relative;
+    bottom: 19px;
+    border: 5px solid white;
+    border-radius: 50%;
+}
+main .p8{
+    font-size: 13px;
+    position: relative;
+    left: 70px;
+    top: 29px;
+}
+
+main .div4{
+    margin-top: 90px;
+    background-color: rgb(223, 230, 242);
+    height: 350px;
+}
+main .image5{
+    position: relative;
+    bottom: 334px;
+    left: 775px;
+    height: 350px;
+
+}
+
+main .botton2{
+    width: 150px;
+    height: 35px;
+    background-color: rgb(88, 101, 242);
+    color: white;
+    border: 1px;
+    border-radius: 5px;
+}
+
+
+main .span1{
+    font-weight: 400;
+}
+main .hi{
+    width: 600px;
+    height: 50px;
+    position: relative;
+    left: 700px;
+    bottom: 55px;
+    border: 1px solid white;
+    border-radius: 20PX;
+    background-color: rgb(223, 230, 242);
+}
+
+main .botton3{
+    width: 180px;
+    height: 45px;
+    background-color: rgb(88, 101, 242);
+    color: white;
+    border: 1px;
+    border-radius: 5px;
+    position: relative;
+    left: 510px;
+    bottom: 55px;
+    border-radius: 10px;
+}
+main .botton3:hover{
+    transform: scale(0.9);
+}
+footer div{height: 280px;
+    position: relative;
+    top: 150px;
+    background-color: rgb(88, 101, 242);
+}
+
+
+footer .logo2{
+    margin: 70px;
+    height: 50px;
+    width: 145px;
+}
+footer .a4{
+    color: white;
+    text-decoration: none;
+    position: relative;
+    right: 230px;
+    bottom: px;
+    font-size: x-small;
+    margin: 10px;
+}
+footer .a4:hover{
+    color: red;
+}
+footer .image6{
+    position:relative ;
+    left: 500px;
+    bottom: 60px;
+    margin-left: 15px;
+}
+footer .a5{
+    color: white;
+    text-decoration: none;
+    position: relative;
+    left: 340px;
+    bottom: 10px;
+    font-size: x-small;
+    margin: 10px;}
+    footer .a5:hover{
+        color: red;
+    }
